@@ -43,7 +43,7 @@ Projects will be added regularly as I learn new concepts.
 
 ### Beginner Projects
 - Bill Calculator
-- 
+- Cafe Management System
 - Simple XOX game
 - More projects coming soon...
 
