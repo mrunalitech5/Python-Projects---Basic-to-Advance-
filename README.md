@@ -43,6 +43,8 @@ Projects will be added regularly as I learn new concepts.
 
 ### Beginner Projects
 - Bill Calculator
+- 
+- Simple XOX game
 - More projects coming soon...
 
 ### Intermediate Projects
